@@ -6,3 +6,6 @@ In addition to the library, create one or more templates to easier create new pa
 
 ## Social media as a discussion platform
 Social medias are mostly not good tools to discuss if you're more than just a handful of people. Maybe GitHub's "build upon other's work" will be better, and lead to more sober discussions about changes to the library.
+
+## Intention
+A better world for people, nature and the planet.
